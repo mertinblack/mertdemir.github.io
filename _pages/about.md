@@ -10,4 +10,4 @@ redirect_from:
 
 This is Mert Demir's project page on the web!
 
-Lorem ipsum.
+M.Sc. Data Science.

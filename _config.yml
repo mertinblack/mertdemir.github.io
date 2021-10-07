@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : mertinblack
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Mert Demir"
   avatar           : "profile.png"
   bio              : "Audiologist/Speech-Language Therapist, M.Sc. Data Science Student"
-  location         : "Venice"
+  location         : "Roma"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=HzlvbrgAAAAJ&hl=tr"
@@ -99,10 +99,10 @@ author:
   github           : "mertinblack"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "mertinblack"
+  impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mertdemir0/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

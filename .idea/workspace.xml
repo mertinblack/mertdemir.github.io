@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b94286f7-4bf1-470d-8c03-e91c4b237b4e" name="Default Changelist" comment="Updates 0.1" />
+    <list default="true" id="b94286f7-4bf1-470d-8c03-e91c4b237b4e" name="Default Changelist" comment="Updates 0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
     <option name="directoryName" value="uajbrtf3" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1zAhE3zCh0XFTzxNnIv7g24kSp9" />
   <component name="ProjectViewState">
@@ -47,6 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1633596703464</updated>
       <workItem from="1633596720386" duration="1307000" />
+      <workItem from="1633598119002" duration="720000" />
+      <workItem from="1633598963110" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="Updates 0.1">
       <created>1633598017499</created>
@@ -71,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updates 0.1" />

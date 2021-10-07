@@ -13,6 +13,7 @@ Education
 ======
 * B.Sc. in Audiology/Speech Language Therapy, Istanbul Aydin University, 2018
 * M.Sc. in Data Science Micro Master Program, Massachusetts Institute of Technology (MIT), 2021
+* M.Sc. in Data Science, Rome Business School, 2023
 
 
 Work experience

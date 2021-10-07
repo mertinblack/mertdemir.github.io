@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b94286f7-4bf1-470d-8c03-e91c4b237b4e" name="Default Changelist" comment="Updates 0.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    <list default="true" id="b94286f7-4bf1-470d-8c03-e91c4b237b4e" name="Default Changelist" comment="Updates 0.2">
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -51,7 +49,7 @@
       <updated>1633596703464</updated>
       <workItem from="1633596720386" duration="1307000" />
       <workItem from="1633598119002" duration="720000" />
-      <workItem from="1633598963110" duration="432000" />
+      <workItem from="1633598963110" duration="995000" />
     </task>
     <task id="LOCAL-00001" summary="Updates 0.1">
       <created>1633598017499</created>
@@ -60,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633598017499</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updates 0.2">
+      <created>1633599608601</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633599608601</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updates 0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates 0.1" />
+    <MESSAGE value="Updates 0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates 0.2" />
   </component>
 </project>

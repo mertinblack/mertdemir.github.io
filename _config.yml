@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mert Demir Project Page"
 title_separator          : "-"
-name                     :  "Mert Demir"
+name                     : "Mert Demir"
 description              : "M.Sc Data Science Student - MIT"
 url                      : https://mertinblack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

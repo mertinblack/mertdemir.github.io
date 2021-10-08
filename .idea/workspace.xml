@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b94286f7-4bf1-470d-8c03-e91c4b237b4e" name="Default Changelist" comment="Cv and about edited">
+    <list default="true" id="b94286f7-4bf1-470d-8c03-e91c4b237b4e" name="Default Changelist" comment="worked on navigation and authors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <updated>1633596703464</updated>
       <workItem from="1633596720386" duration="1307000" />
       <workItem from="1633598119002" duration="720000" />
-      <workItem from="1633598963110" duration="5997000" />
+      <workItem from="1633598963110" duration="6714000" />
     </task>
     <task id="LOCAL-00001" summary="Updates 0.1">
       <created>1633598017499</created>
@@ -82,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633604267847</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="worked on navigation and authors">
+      <created>1633609332120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633609332120</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,11 +95,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="10bdaac3-1764-465a-beea-651c3c153586">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="10bdaac3-1764-465a-beea-651c3c153586" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -105,6 +139,7 @@
     <MESSAGE value="Updates 0.2" />
     <MESSAGE value="Updates 0.3" />
     <MESSAGE value="Cv and about edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cv and about edited" />
+    <MESSAGE value="worked on navigation and authors" />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on navigation and authors" />
   </component>
 </project>
